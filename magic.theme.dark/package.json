@@ -21,13 +21,20 @@
    "content": {
     "themes": [
       {
-        "name": "PurpleWitch",
+        "name": "Purple Witch",
         "source": "PurpleWitch.css",
-        "image": "PurpleWitch.png",
+        "image": "PurpleWitchIcon.png",
+        "apiVersion": 1
+      },
+      {
+        "name": "Blue Celestial",
+        "source": "BlueCelestial.css",
+        "image": "BlueCelestialIcon.png",
         "apiVersion": 1
       }
 ]
   }
 }
+
 
 
