@@ -23,5 +23,7 @@
 
 /*Remove image from chat Background*/
 .ts-chat-container .ts-background-hexes-container {
-  background: url();
+  background: url(PurpleWitch.png);
+  background-color: rgba(255,255,255,0.6);
+  background-blend-mode: lighten;
 }
