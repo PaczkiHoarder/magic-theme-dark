@@ -1,0 +1,29 @@
+@import url(TeamSpeak.css);
+@import url(Glassmorphism.css);
+
+:root, ::after, ::before {
+    --custom-color-accent-light: #0A84FF;
+    --custom-color-accent-dark: #0066FF;
+    --custom-color-accent-light-t: rgba(10, 132, 255, 0.5);
+    --custom-color-accent-dark-t: rgba(0, 102, 255, 0.5);
+    --custom-color-slider1: #0A84FF;
+    --custom-color-slider2: #64D2FF;
+}
+
+/*Image Background Sever Channel Root*/
+.ts-server-tree-item-root {
+  background-image: url(BlueCelestial.png) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: 70% !important;
+  background-position: 60% 103% !important;
+  background-color: rgba(255,255,255,0.6);
+  background-blend-mode: lighten;
+}
+
+/*Remove image from chat Background*/
+.ts-chat-container .ts-background-hexes-container {
+  background: url(BlueCelestial.png);
+  background-color: rgba(255,255,255,0.6);
+  background-blend-mode: lighten;
+}
