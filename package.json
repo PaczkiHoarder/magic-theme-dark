@@ -1,0 +1,27 @@
+{
+  "name": "Magic Theme Dark",
+  "description": "Magical TS themes by Kat Strelitzia. Based off of Neon Reaper.",
+  "version": "1.0.0",
+  "identifier": "magic.theme.dark",
+  "engines": {
+    "teamspeak": 1
+  },
+ "repository": {
+        "url": "https://github.com/PaczkiHoarder/magic-theme-dark",
+    },
+  "author": {
+        "name": "Kat Strelitzia",
+        "email": "lolnoufail@yahoo.com",
+        "userTag": "Rage'n@myteamspeak.com"
+   },
+   "content": {
+    "themes": [
+      {
+        "name": "PurpleWitch",
+        "source": "PurpleWitch.css",
+        "image": "PurpleWitch.png",
+        "apiVersion": 1
+      }
+]
+  }
+}
