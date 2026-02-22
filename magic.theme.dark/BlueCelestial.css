@@ -9,8 +9,8 @@
     --custom-color-slider2: #64D2FF;
 }
 
-/*Remove image from chat Background*/
-.ts-chat-container {
+/*image from chat Background*/
+.ts-chat-input-container {
   background: url(BlueCelestial.png);
   background-position: center !important;
   background-repeat: no-repeat !important;
