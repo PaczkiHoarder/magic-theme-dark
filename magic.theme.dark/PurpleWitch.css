@@ -1,13 +1,14 @@
 @import url(TeamSpeak.css);
+:root,
+::after,
+::before {
+  /* --- Base Color Palette  --- */
 
-:root, ::after, ::before {
-  --custom-color-accent-light: #BF5AF2;
-  --custom-color-accent-dark: #8E44AD;
-  --custom-color-accent-light-t: rgba(191, 90, 242, 0.5);
-  --custom-color-accent-dark-t: rgba(142, 68, 173, 0.5);
-  --custom-color-slider1: #BF5AF2;
-  --custom-color-slider2: #7D3C98;
-}
+  /* Accent Color */
+  --teamspeak-blue: #6f42c1;                  
+  --teamspeak-blue-hover: #5a32a3;            
+  --teamspeak-blue-transparent: rgba(111, 66, 193, 0.3); 
+  --teamspeak-blue-transparent-light: rgba(111, 66, 193, 0.1); 
 
 /*Image from chat Background*/
 .ts-chat-input-container {
@@ -17,6 +18,7 @@
   background-color: rgba(255,255,255,0.6);
   background-blend-mode: lighten;
 }
+
 
 
 
