@@ -10,15 +10,6 @@
   --teamspeak-blue-transparent: rgba(111, 66, 193, 0.3); 
   --teamspeak-blue-transparent-light: rgba(111, 66, 193, 0.1); 
 
-/*Image from chat Background*/
-.ts-chat-input-container {
-  background: url(PurpleWitch.png);
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  background-color: rgba(255,255,255,0.6);
-  background-blend-mode: lighten;
-}
-
 
 
 
