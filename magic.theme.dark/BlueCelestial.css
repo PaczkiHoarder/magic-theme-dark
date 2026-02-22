@@ -10,7 +10,7 @@
 }
 
 /*Remove image from chat Background*/
-.ts-chat-container .ts-background-hexes-container {
+.ts-chat-container {
   background: url(BlueCelestial.png);
   background-position: center !important;
   background-repeat: no-repeat !important;
