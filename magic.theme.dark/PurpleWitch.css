@@ -9,21 +9,13 @@
   --custom-color-slider2: #7D3C98;
 }
 
-/*Image Background Sever Channel Root*/
-.ts-server-tree-item-root {
-  background-image: url(PurpleWitch.png) !important;
+/*Image from chat Background*/
+.ts-chat-container {
+  background: url(PurpleWitch.png);
   background-position: center !important;
   background-repeat: no-repeat !important;
-  background-size: 70% !important;
-  background-position: 60% 103% !important;
   background-color: rgba(255,255,255,0.6);
   background-blend-mode: lighten;
 }
 
-/*Remove image from chat Background*/
-.ts-chat-container .ts-background-hexes-container {
-  background: url(PurpleWitch.png);
-  background-color: rgba(255,255,255,0.6);
-  background-blend-mode: lighten;
-}
 
