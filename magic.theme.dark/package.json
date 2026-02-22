@@ -8,13 +8,13 @@
   },
  "repository": {
         "url": "https://github.com/PaczkiHoarder/magic-theme-dark",
-        "directory": "magic.theme.dark",
+        "directory": "magic-theme-dark",
         "type": "git"
     },
   "image": "Thumbnail.png",
   "license": "MIT",
   "author": {
-        "name": "Kat Strelitzia",
+        "name": "PaczkiHoarder",
         "email": "lolnoufail@yahoo.com",
         "userTag": "Rage'n@myteamspeak.com"
    },
@@ -35,6 +35,7 @@
 ]
   }
 }
+
 
 
 
